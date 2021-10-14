@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  entry: 9.99
+  price: 9.99
+  user: one
+  serving: one
+
+two:
+  entry: 9.99
+  price: 9.99
+  user: two
+  serving: two
